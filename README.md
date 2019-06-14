@@ -4,4 +4,4 @@
 The Jupyter notebook contains the code used to generate the colour version of the figures of our article, 
 as well as some basic discussion of the tfidf pre-processing approach.
 
-The code can be found in the Proximity_and_Neighbourhood.ipynb Jupyter notebook.
+It can be viewed [at this link]*https://nbviewer.jupyter.org/github/adelr/hca-proximity/blob/master/Proximity_and_Neighbourhood.ipynb).
